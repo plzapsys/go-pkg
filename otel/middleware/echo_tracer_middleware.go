@@ -1,4 +1,4 @@
-package otelmiddleware
+package middleware
 
 import (
 	"errors"
