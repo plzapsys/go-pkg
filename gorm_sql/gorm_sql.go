@@ -1,4 +1,4 @@
-package gormpgsql
+package gormsql
 
 import (
 	"context"
